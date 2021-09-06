@@ -1,3 +1,7 @@
+# Frontend Part of Project
+forked from my repo here https://github.com/puckfried/reactLeafletComponent
+
+
 ## About the project
 <p align="center">
 <img src="images/overview.jpg" alt="Map view" width="700" height="350">
