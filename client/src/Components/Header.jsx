@@ -1,9 +1,10 @@
 import React, {useState} from 'react'
 import countries from '../data/countries.geo.json'
+import { ButtonGroup, Button } from 'react-bootstrap'
 
 export default function Header(props) {
   
-    const {country, setCountry, setMapStyle} = props
+    const {country, setCountry, setMapStyle, setOffCanvasShow} = props
     const [collapsed, setCollapsed] = useState(true)
 
     const selectMap= (e) => {
@@ -23,7 +24,7 @@ export default function Header(props) {
         {!collapsed ?
          <div className="header">
             <p className="arrowClose" onClick={handleClick}>&#187;</p>
-            <h3>{country.length<1 ? 'Select a country' : `${country} selected`} </h3>
+            <h6>{country.length<1 ? 'Select a country' : `${country} selected`} </h6>
             <select value={country} onChange={(e) => selectCountry(e)} name="country" id="countrySelect">
                 {countries.features.map( (element,index) => {
                     const mapCountry = element.properties.name
@@ -39,6 +40,9 @@ export default function Header(props) {
                 <option value="topo" selected>Topos Style</option>
                 <option value="choro">Choropleth</option>
             </select>
+            <Button onClick ={() => setOffCanvasShow(true)} variant="success">
+                Login
+            </Button>
         </div> :
         <div className="headCollapsed" onClick={handleClick}>
             {[6,6,6].map((e) => <div className={'menuIcon'}></div> )}

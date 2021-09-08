@@ -7,6 +7,7 @@ const port = 4000;
 const URI = 'mongodb://127.0.0.1:27017/leMondeArticleOverview'
 
 import routeFlow from './routes/routeFlow.js'
+import userRouter from './routes/userRoute.js';
 
 
 mongoose.connect( URI, {
@@ -24,7 +25,8 @@ app.on('listening', () => console.log('db is started!'))
 
 app.use( cors() ) 
 app.use(express.json()); 
-app.use('/update', routeFlow)
+app.use('/', routeFlow)
+app.use('/user/', userRouter)
 
 
 app.listen(port, () => {

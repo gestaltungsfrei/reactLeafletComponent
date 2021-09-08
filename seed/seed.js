@@ -5,14 +5,15 @@ import fetch from 'node-fetch'
 //Found no import for json functionality so using require instead:
 
 import { createRequire } from "module"; // Bring in the ability to create the 'require' method
+import { intoDB } from '../controllers/countryController.js';
 const require = createRequire(import.meta.url); // construct the require method
-const {laender} = require("../data/laender.json") // use the require method
+const {laender} = require("../data/laenderForTesting.json") // use the require method
 
 let newArray =[]
 
 //Connection DB
 const port = 4000;
-const URI = 'mongodb://127.0.0.1:27017/leMondeArticleOverview'
+const URI = 'mongodb://127.0.0.1:27017/leMondeArticleOverviewTest'
 
 mongoose.connect( URI, {
     useNewUrlParser: true,
@@ -22,7 +23,14 @@ mongoose.connect( URI, {
   })
   .then( (res, rej) => console.log("Connection with DB works!") )
   .catch(err => console.log("Connection is somehow strange...!", err.message))
+ 
   
+
+// fetch the raw material 
+console.log('Will scratch : ',laender.length,' countries')
+let rawDataPromises = Array(laender.length).fill(null).map( (el, index) => {
+  return fetch(`https://monde-diplomatique.de/archiv-text?text=${laender[index]}`)
+})
 
 
 //helper functions
@@ -42,9 +50,9 @@ const scratchData = (rawArrayComplete) => {
 
 
 const buildArticle = (scratchArr) => {
-  console.log('build Article started')
-  const escapeHTML = str => str.replace(/(&.uml;)|(&szlig;)|(&eacute;)|(&aacute;)|(&agrave;)|(&egrave;)|(&nbsp;)|(&ndash;)/g, 
-  tag => ({
+    console.log('build Article started')
+    const escapeHTML = str => str.replace(/(&.uml;)|(&szlig;)|(&eacute;)|(&aacute;)|(&agrave;)|(&egrave;)|(&nbsp;)|(&ndash;)/g, 
+     tag => ({
       '&Auml;': 'Ä',
       '&auml;': 'ä',
       '&Ouml;': 'Ö',
@@ -58,10 +66,9 @@ const buildArticle = (scratchArr) => {
       '&egrave;':'è',
       '&nbsp;': ' ',
       '&ndash;': '-'
+       }[tag])); 
 
-    }[tag])); 
-
-  const finalcountryArr = scratchArr.map((element) => {
+    const finalcountryArr = scratchArr.map((element) => {
         for (const [country, rawArtArr] of Object.entries(element)){
             const finalArtArr = rawArtArr.map(element => {
                 let headStart = element.indexOf('</span>')
@@ -88,26 +95,50 @@ const buildArticle = (scratchArr) => {
     return merged
 }
 
+const filterArray = (fullArray) => {
+    
+    const newPromise = fullArray.map((element) => {
+       const {head, url, date, country} = element 
+       return (
+            
+            Overview.updateOne(
+                {"head": element.head,
+                "country": element.country},
+                {element},
+                {
+                  upsert: true,
+                  multi: true
+                }
+                )
+            )
+     })
+     return newPromise
+}
+  
 
-  // fetch the raw material 
-  console.log('Will scratch : ',laender.length,' countries')
-  let rawDataPromises = Array(laender.length).fill(null).map( (el, index) => {
-    return fetch(`https://monde-diplomatique.de/archiv-text?text=${laender[index]}`)
- })
 
+// Resolve all the Promises
 try {
     await Promise.all(rawDataPromises)
         .then((rawData) => newArray = rawData.map((element) => element.text()))
         .then(() => Promise.all(newArray))
         .then((result) => scratchData(result) )
         .then((rawText) => buildArticle(rawText))
-        .then((output) => {
-            const newPromiseArray = output.map((element) => {
-                const overview = Overview(element)
-                return overview.save()})
-            Promise.all(newPromiseArray)
-            })
-        .then(() => console.log('should be in DB!'))
+        .then((fullArray) => filterArray(fullArray))
+        
+        .then((intoDB) => 
+            {console.log(intoDB)
+            Promise.all(intoDB)}
+        )
+        
+        
+            // .then((output) => {
+        //     const newPromiseArray = output.map((element) => {
+        //         const overview = Overview(element)
+        //         return overview.save()})
+        //     Promise.all(newPromiseArray)
+        //     })
+         .then(() => console.log('should be in DB!'))
       
 }
 catch(error){

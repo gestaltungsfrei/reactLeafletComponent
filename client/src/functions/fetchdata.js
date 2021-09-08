@@ -1,4 +1,4 @@
-const serverUrl ='http://localhost:4000/update/'
+const serverUrl ='http://localhost:4000/'
 
 
 export const fetchData = async(country) => {

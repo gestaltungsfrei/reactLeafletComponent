@@ -41,8 +41,7 @@ export default function MapWrapper(props) {
          .then((res) => setCountryDe(res))
     },[mapCenter])
 
-    const position = [51.505, -0.09]
-
+  
     return (
         <>
             <Map center={mapCenter} zoom={4} scrollWheelZoom={false}
@@ -67,9 +66,9 @@ export default function MapWrapper(props) {
                     {country ? <Polygon color={polyColor} positions={border} /> : <></>}
                 </>)
                 }   
-                <Marker position={position}>
+               
 
-                </Marker>
+               
             </Map>
         </>
     )

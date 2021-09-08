@@ -44,12 +44,19 @@ export const fetchCountryByCoord = async (coordinates) => {
     }}
 
 export const getGermanCountryName = async (coordinates) => {
+    console.log('get german country names!!!')
     if (coordinates){
-        const [lat, lng] = coordinates
-        console.log(coordinates, 'Lat: ',lat)
-        const resDe = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=de`)
-        const dataDe = await resDe.json()
-        return dataDe.address.country
+        try {
+            const [lat, lng] = coordinates
+            console.log(coordinates, 'Lat: ',lat)
+            const resDe = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=de`)
+            const dataDe = await resDe.json()
+            return dataDe.address.country
+        }
+        catch(error){
+            console.log('something was wrong with german country names')
+        }
+       
     }
 }
 

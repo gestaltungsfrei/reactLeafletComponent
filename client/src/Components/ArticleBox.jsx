@@ -1,11 +1,10 @@
 import React, {useEffect, useState} from 'react'
 import { fetchData } from '../functions/fetchdata'
-import ArticleContainer from './ArticleContainer'
 import CarouselWrapper from './Carousel'
 
 export default function ArticleBox(props) {
     let [result, setResult] = useState([])
-    const {country} = props
+    const {country, setCountry} = props
 
     useEffect(() => {
        fetchData(country).then((res) => setResult(res)) 
@@ -13,9 +12,9 @@ export default function ArticleBox(props) {
 
     console.log('Thats the result: ',result)
     return (
-        <div className='articleBox'>
+        <div className='articleBox' onClick={() => setCountry('')}>
             <div className="articleBoxMenu">
-                close
+                close (x)
             </div>
             <CarouselWrapper items={result} />
         </div>
