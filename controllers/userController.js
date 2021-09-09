@@ -1,12 +1,15 @@
 import createError from "http-errors";
 import User from '../models/User.js'
 import mongoose from 'mongoose'
+import bcrypt from 'bcrypt'
 
 
 export const createUser = async (req, res, next) => {
-    const data = req.body
     try {
-        const user = await User.create(data)
+        const salt = await bcrypt.genSalt(10);
+        const hash = await bcrypt.hash(req.body.password.toString(), salt);
+        req.body.password = hash;
+        let user = await User.create(req.body)
         const show = {}
         show.name = user.userName
         res.json({message: `User ${show} created`});
@@ -33,17 +36,12 @@ export const updateUser = async (req,res, next) => {
     let user
     const { id, method } = req.params;
     const {articleFav} = req.body;
-    console.log(articleFav, method)
-    const steve = mongoose.Types.ObjectId(articleFav)
-    console.log(steve)
     try {
         if (method === 'add') {
-            console.log('this is 38')
             user = await User.findByIdAndUpdate(id, {$push: {"articleFav" : articleFav}}, {new: true});
             if (!user) throw new createError(418, `No user with id:${id} can be found.`);
         }
         else if (method === 'delete') {
-            console.log('delete should start')
             user = await User.findByIdAndUpdate(id, {$pull: {"articleFav": articleFav}}, {new: true});
             if (!user) throw new createError(418, `No user with id:${id} can be found.`);
         }
@@ -57,22 +55,27 @@ export const updateUser = async (req,res, next) => {
     }
 }
 
-
-export const loginUser = (req, res) => {
+export const loginUser = async (req, res, next) => {
     const {userName, password} = req.body
-    console.log('Whats the user who arrive?',userName)
     try {
-        // const findUser = User.find( element => element.userName === userName && element.password === password)    
+        const findUser = await User.find( {userName: userName} )
+        const passwordToCompare = findUser[0].password
+        const userId = findUser[0]._id
+        if (findUser.length===1) {
+           try {
+            const match = await bcrypt.compare(password, passwordToCompare)
+            res.json({login: match, id: userId})  
+        }
+           catch(error){
+            res.json({login: false})
+           }
+        }
+        else {
+            res.json({login: false})
+        }    
 
     }
     catch(error){
-        console.log(error)
+       res.json({login: false})
     }
-        
-    //     if (findUser) {
-    //         res.json({messsage: 'You are logged in', login: true})
-    //     }
-    //     else {
-    //         res.json({messsage: `Invalid User`, login: false  })
-    //     }
 }

@@ -12,8 +12,8 @@ export default function ArticleBox(props) {
 
     console.log('Thats the result: ',result)
     return (
-        <div className='articleBox' onClick={() => setCountry('')}>
-            <div className="articleBoxMenu">
+        <div className='articleBox'>
+            <div className="articleBoxMenu"  onClick={() => setCountry('')}>
                 close (x)
             </div>
             <CarouselWrapper items={result} />

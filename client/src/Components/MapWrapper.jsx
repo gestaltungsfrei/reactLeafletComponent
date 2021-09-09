@@ -44,14 +44,17 @@ export default function MapWrapper(props) {
   
     return (
         <>
+        {/* Create the Map Object */}
             <Map center={mapCenter} zoom={4} scrollWheelZoom={false}
             style={{width: "100vw", height: "100vh"}}
               onClick={(e) => handleMapClick(e) }
             >
+                {/* 4 Map Styles - Choro - Hot - Osm - Topo */}
                {mapStyle=== 'choro'
                 ?   countries.features.map((element, index) => 
                         <MapPolygon polyColor={polyColor} border={border} L={L} country={element.properties.name} />) 
                 :  (<>
+                    {/* Only with Hot, Osm and Topo maptiles are loaded */}
                     <TileLayer
                         attribution={
                             ('&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors') + 

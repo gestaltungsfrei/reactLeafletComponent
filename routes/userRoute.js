@@ -9,7 +9,7 @@ import {
 
 userRouter.route('').post(createUser)
 userRouter.route('/login/:id/:method').get(getUser).put(updateUser)
-userRouter.route('/login/').post(loginUser)
+userRouter.route('/login').post(loginUser)
 
 
 export default userRouter

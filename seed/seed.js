@@ -125,23 +125,21 @@ try {
         .then((result) => scratchData(result) )
         .then((rawText) => buildArticle(rawText))
         .then((fullArray) => filterArray(fullArray))
-        
-        .then((intoDB) => 
-            {console.log(intoDB)
-            Promise.all(intoDB)}
-        )
-        
-        
-            // .then((output) => {
-        //     const newPromiseArray = output.map((element) => {
-        //         const overview = Overview(element)
-        //         return overview.save()})
-        //     Promise.all(newPromiseArray)
-        //     })
-         .then(() => console.log('should be in DB!'))
+        .then((intoDB) => {Promise.all(intoDB)})
+        .then(() => console.log('should be in DB!'))
       
 }
 catch(error){
     console.log('Failed', error)
 }
 
+
+
+
+
+      // .then((output) => {
+        //     const newPromiseArray = output.map((element) => {
+        //         const overview = Overview(element)
+        //         return overview.save()})
+        //     Promise.all(newPromiseArray)
+        //     })

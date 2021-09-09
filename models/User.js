@@ -1,5 +1,8 @@
 import mongoose from 'mongoose'
+
 const {Schema, model} = mongoose
+
+const SALT_WORK_FAcTOR = 10;
 
 const UserSchema = new Schema({
     userName: {type: String, unique: true, required: true},
@@ -19,6 +22,10 @@ const UserSchema = new Schema({
         virtuals: true
     } 
 })
+
+
+
+
 
 const User = model('User', UserSchema);
 export default User;

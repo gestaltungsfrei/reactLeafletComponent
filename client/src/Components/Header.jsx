@@ -1,11 +1,15 @@
-import React, {useState} from 'react'
+import React, {useState, useContext} from 'react'
 import countries from '../data/countries.geo.json'
 import { ButtonGroup, Button } from 'react-bootstrap'
+import AuthContext from '../context'
+
 
 export default function Header(props) {
   
     const {country, setCountry, setMapStyle, setOffCanvasShow} = props
     const [collapsed, setCollapsed] = useState(true)
+    const {authUser, setAuthUser} = useContext(AuthContext)
+
 
     const selectMap= (e) => {
      setMapStyle(() => e.target.value)

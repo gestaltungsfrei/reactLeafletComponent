@@ -10,12 +10,13 @@ function Login() {
     const {setAuthUser} = useContext(AuthContext)
  
     
-    const handleSubmit = (e) =>{
+    const handleSubmit = async (e) =>{
         e.preventDefault()
-        let login = userLogin(inputUser,inputPw)
-        if (login.login){
+        let received = await userLogin(inputUser,inputPw)
+        console.log(received,' arrived')
+        if (received.login){
             console.log('You are logged in')
-            setAuthUser(true)
+            setAuthUser(received.id)
         }
         setInputUser('')
         setInputPw('')

@@ -12,7 +12,7 @@ function App() {
   const [countryDe, setCountryDe] = useState('')
   const [mapStyle, setMapStyle] = useState('topo')
   const [offCanvasShow, setOffCanvasShow] = useState(false);
-  const [authUser, setAuthUser] = useState('none')
+  const [authUser, setAuthUser] = useState(0)
 
 
   return (

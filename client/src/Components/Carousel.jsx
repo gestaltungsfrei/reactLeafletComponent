@@ -1,11 +1,22 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import Carousel from 'react-multi-carousel';
 import { Container } from 'react-bootstrap'
 import 'react-multi-carousel/lib/styles.css'
+import {addUserFav} from '../functions/addUserFav.js'
+import AuthContext from '../context'
+
 
 export default function CarouselWrapper(props) {
+    const {authUser} = useContext(AuthContext)
     const {items} = props
-    
+    const likeMe = (e, id) => {
+      console.log('you seeking for likes?', id)
+      addUserFav(authUser, id)
+      .then((result) => console.log('Fav added') )
+    }
+
+
+
     const responsive = {
         desktop: {
           breakpoint: { max: 3000, min: 1424 },
@@ -27,7 +38,7 @@ export default function CarouselWrapper(props) {
     return (
         <Carousel
         swipeable={false}
-        draggable={false}
+        draggable={true}
         showDots={false}
         responsive={responsive}
         ssr={true} // means to render carousel on server-side.
@@ -46,6 +57,7 @@ export default function CarouselWrapper(props) {
            {items.map((element, index) => {
               return(
                 <div className="article">
+                    {authUser !== 0 ? <p onClick={(e) => likeMe(e, element._id)}>like me</p> : <></>}
                     <a href={`https://monde-diplomatique.de${element.url}`} target={"_blank"} style={{textDecoration: "none", color: "white"}}>
                         <h3>{element.head}</h3>
                         <p>{element.date}</p>
