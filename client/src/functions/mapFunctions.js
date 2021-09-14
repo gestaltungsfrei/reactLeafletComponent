@@ -1,6 +1,7 @@
 import countries from '../data/countries.geo.json'
 import capitals from '../data/capitals.geo.json'
-
+import gerCountry from '../data/gerCountriesCoord.json'
+import numbersCountry from '../data/numArticlesCountry.json'
 
 //Functions for handling the map and geo.json files
 
@@ -35,27 +36,20 @@ export const fetchCountryByCoord = async (coordinates) => {
         //get english country name 
         const res = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=en`)
         const dataEn = await res.json()
-        //get german name for newspaper search
-        // const resDe = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=de`)
-        // const dataDe = await resDe.json()
         return [dataEn] }
     catch(error){
         console.log(error)
     }}
 
-export const getGermanCountryName = async (coordinates) => {
-    console.log('german coordinates:', coordinates)
-    if (coordinates){
-        try {
-            const [lat, lng] = coordinates
-            const resDe = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=de`)
-            const dataDe = await resDe.json()
-            return dataDe.address.country
-        }
-        catch(error){
-            console.log('something was wrong with german country names')
-        }
-       
+
+//GET GERMAN NAME BY FILTERING THE JSON FILE
+export const getGermanCountry = async (country) => {
+    if (country) {
+       const countryObj = gerCountry.filter((element) =>  element.country === country)
+       if (countryObj[0]) {
+        return countryObj[0].germanName
+       }
+ 
     }
 }
 
@@ -71,3 +65,44 @@ export const newCenterCoord = async (country) => {
         console.log('Something is wrong with centering ', country,' the json found is',newCenter) 
     }
 }
+
+
+export const getPolyColor = async(country) => {
+    const colorArray = ["#ffffff", "#f0f0f0", "#d9d9d9", "#bdbdbd", "##969696", "#737373", "#525252", "#252525", "#000000" ]
+    let color ='blue'
+    const countryObj = numbersCountry.filter((element) => element.countryName === country)
+    if (countryObj[0]){
+        
+        const numberArt = countryObj[0].numArticles
+         if (numberArt < 100) {color = colorArray[0]}
+         else if (numberArt < 200) {color = colorArray[1]}
+         else if (numberArt < 300) {color = colorArray[2]}
+         else if (numberArt < 300) {color = colorArray[3]}
+         else if (numberArt < 400) {color = colorArray[4]}
+         else if (numberArt < 500) {color = colorArray[5]}
+         else if (numberArt < 600) {color = colorArray[6]}
+         else if (numberArt < 800) {
+            console.log('number is: ', numberArt, 'color should be: ', color) 
+            color = colorArray[7]}
+         else {color = colorArray[8]} 
+        }
+        return color
+    // return color
+}
+
+
+// export const getGermanCountryName = async (coordinates) => {
+//     console.log('german coordinates:', coordinates)
+    // if (coordinates){
+    //     try {
+    //         const [lat, lng] = coordinates
+    //         const resDe = await fetch(`https://nominatim.openstreetmap.org/reverse?lat=${lat}&lon=${lng}&format=json&zoom=3&accept-language=de`)
+    //         const dataDe = await resDe.json()
+    //         return dataDe.address.country
+    //     }
+    //     catch(error){
+    //         console.log('something was wrong with german country names')
+    //     }
+       
+    // }
+// }

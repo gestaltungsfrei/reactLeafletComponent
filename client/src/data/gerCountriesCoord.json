@@ -1,0 +1,2161 @@
+[{
+  "_id": {
+    "$oid": "613f1f821fa5254136ab3905"
+  },
+  "coordinatesCapital": [
+    23.43,
+    90.24
+  ],
+  "country": "Bangladesh",
+  "germanName": "Bangladesch"
+},{
+  "_id": {
+    "$oid": "613f1f871fa5254136ab3907"
+  },
+  "coordinatesCapital": [
+    50.5,
+    4.2
+  ],
+  "country": "Belgium",
+  "germanName": "Belgien"
+},{
+  "_id": {
+    "$oid": "613f1f8b1fa5254136ab3909"
+  },
+  "coordinatesCapital": [
+    12.22,
+    -1.31
+  ],
+  "country": "Burkina Faso",
+  "germanName": "Burkina Faso"
+},{
+  "_id": {
+    "$oid": "613f1f8f1fa5254136ab390b"
+  },
+  "coordinatesCapital": [
+    42.41,
+    23.19
+  ],
+  "country": "Bulgaria",
+  "germanName": "Bulgarien"
+},{
+  "_id": {
+    "$oid": "613f1f931fa5254136ab390d"
+  },
+  "coordinatesCapital": [
+    43.52,
+    18.25
+  ],
+  "country": "Bosnia and Herzegovina",
+  "germanName": "Bosnien und Herzegowina"
+},{
+  "_id": {
+    "$oid": "613f1f971fa5254136ab390f"
+  },
+  "coordinatesCapital": [
+    13.06,
+    -59.37
+  ],
+  "country": "Barbados",
+  "germanName": "Barbados"
+},{
+  "_id": {
+    "$oid": "613f1fa81fa5254136ab3911"
+  },
+  "coordinatesCapital": [
+    4.53,
+    114.56
+  ],
+  "country": "Brunei",
+  "germanName": "Brunei"
+},{
+  "_id": {
+    "$oid": "613f1fac1fa5254136ab3913"
+  },
+  "coordinatesCapital": [
+    -16.3,
+    -68.09
+  ],
+  "country": "Bolivia",
+  "germanName": "Bolivien"
+},{
+  "_id": {
+    "$oid": "613f1fb01fa5254136ab3915"
+  },
+  "coordinatesCapital": [
+    26.14,
+    50.34
+  ],
+  "country": "Bahrain",
+  "germanName": "Bahrain"
+},{
+  "_id": {
+    "$oid": "613f1fb41fa5254136ab3917"
+  },
+  "coordinatesCapital": [
+    -3.22,
+    29.21
+  ],
+  "country": "Burundi",
+  "germanName": "Demokratische Republik Kongo"
+},{
+  "_id": {
+    "$oid": "613f1fb81fa5254136ab3919"
+  },
+  "coordinatesCapital": [
+    6.29,
+    2.37
+  ],
+  "country": "Benin",
+  "germanName": "Benin"
+},{
+  "_id": {
+    "$oid": "613f1fbd1fa5254136ab391b"
+  },
+  "coordinatesCapital": [
+    27.29,
+    89.36
+  ],
+  "country": "Bhutan",
+  "germanName": "Bhutan"
+},{
+  "_id": {
+    "$oid": "613f1fc11fa5254136ab391d"
+  },
+  "coordinatesCapital": [
+    18,
+    -76.48
+  ],
+  "country": "Jamaica",
+  "germanName": "Jamaika"
+},{
+  "_id": {
+    "$oid": "613f1fc51fa5254136ab391f"
+  },
+  "coordinatesCapital": [
+    -54.26,
+    3.24
+  ],
+  "country": "Bouvet Island",
+  "germanName": "Norwegen"
+},{
+  "_id": {
+    "$oid": "613f1fc91fa5254136ab3921"
+  },
+  "coordinatesCapital": [
+    -24.45,
+    25.55
+  ],
+  "country": "Botswana",
+  "germanName": "Botsuana"
+},{
+  "_id": {
+    "$oid": "613f1fd11fa5254136ab3923"
+  },
+  "coordinatesCapital": [
+    -15.47,
+    -47.55
+  ],
+  "country": "Brazil",
+  "germanName": "Brasilien"
+},{
+  "_id": {
+    "$oid": "613f1fd51fa5254136ab3925"
+  },
+  "coordinatesCapital": [
+    25.05,
+    -77.21
+  ],
+  "country": "Bahamas",
+  "germanName": "Die Bahamas"
+},{
+  "_id": {
+    "$oid": "613f1fda1fa5254136ab3927"
+  },
+  "coordinatesCapital": [
+    49.11,
+    -2.06
+  ],
+  "country": "Jersey",
+  "germanName": "Jersey"
+},{
+  "_id": {
+    "$oid": "613f1fde1fa5254136ab3929"
+  },
+  "coordinatesCapital": [
+    53.54,
+    27.34
+  ],
+  "country": "Belarus",
+  "germanName": "Belarus"
+},{
+  "_id": {
+    "$oid": "613f1fe21fa5254136ab392b"
+  },
+  "coordinatesCapital": [
+    17.15,
+    -88.46
+  ],
+  "country": "Belize",
+  "germanName": "Belize"
+},{
+  "_id": {
+    "$oid": "613f1fe61fa5254136ab392d"
+  },
+  "coordinatesCapital": [
+    55.45,
+    37.35
+  ],
+  "country": "Russia",
+  "germanName": "Russland"
+},{
+  "_id": {
+    "$oid": "613f1fea1fa5254136ab392f"
+  },
+  "coordinatesCapital": [
+    -1.57,
+    30.04
+  ],
+  "country": "Rwanda",
+  "germanName": "Ruanda"
+},{
+  "_id": {
+    "$oid": "613f1fee1fa5254136ab3931"
+  },
+  "coordinatesCapital": [
+    44.5,
+    20.3
+  ],
+  "country": "Serbia",
+  "germanName": "Serbien"
+},{
+  "_id": {
+    "$oid": "613f1ff21fa5254136ab3933"
+  },
+  "coordinatesCapital": [
+    -8.35,
+    125.36
+  ],
+  "country": "Timor-Leste",
+  "germanName": "Osttimor"
+},{
+  "_id": {
+    "$oid": "613f1ff71fa5254136ab3935"
+  },
+  "coordinatesCapital": [
+    37.57,
+    58.23
+  ],
+  "country": "Turkmenistan",
+  "germanName": "Iran"
+},{
+  "_id": {
+    "$oid": "613f1ffb1fa5254136ab3937"
+  },
+  "coordinatesCapital": [
+    38.35,
+    68.48
+  ],
+  "country": "Tajikistan",
+  "germanName": "Tadschikistan"
+},{
+  "_id": {
+    "$oid": "613f1fff1fa5254136ab3939"
+  },
+  "coordinatesCapital": [
+    44.26,
+    26.06
+  ],
+  "country": "Romania",
+  "germanName": "Rumänien"
+},{
+  "_id": {
+    "$oid": "613f20031fa5254136ab393b"
+  },
+  "coordinatesCapital": [
+    -9,
+    -172
+  ],
+  "country": "Tokelau",
+  "germanName": "Tokelau"
+},{
+  "_id": {
+    "$oid": "613f20071fa5254136ab393d"
+  },
+  "coordinatesCapital": [
+    11.51,
+    -15.35
+  ],
+  "country": "Guinea-Bissau",
+  "germanName": "Guinea-Bissau"
+},{
+  "_id": {
+    "$oid": "613f200d1fa5254136ab393f"
+  },
+  "coordinatesCapital": [
+    13.28,
+    144.44
+  ],
+  "country": "Guam",
+  "germanName": "Vereinigte Staaten von Amerika"
+},{
+  "_id": {
+    "$oid": "613f20111fa5254136ab3941"
+  },
+  "coordinatesCapital": [
+    14.37,
+    -90.31
+  ],
+  "country": "Guatemala",
+  "germanName": "Guatemala"
+},{
+  "_id": {
+    "$oid": "613f20161fa5254136ab3943"
+  },
+  "coordinatesCapital": [
+    37.59,
+    23.44
+  ],
+  "country": "Greece",
+  "germanName": "Griechenland"
+},{
+  "_id": {
+    "$oid": "613f201a1fa5254136ab3945"
+  },
+  "coordinatesCapital": [
+    3.45,
+    8.47
+  ],
+  "country": "Equatorial Guinea",
+  "germanName": "Äquatorialguinea"
+},{
+  "_id": {
+    "$oid": "613f201e1fa5254136ab3947"
+  },
+  "coordinatesCapital": [
+    35.41,
+    139.45
+  ],
+  "country": "Japan",
+  "germanName": "Japan"
+},{
+  "_id": {
+    "$oid": "613f20231fa5254136ab3949"
+  },
+  "coordinatesCapital": [
+    6.48,
+    -58.1
+  ],
+  "country": "Guyana",
+  "germanName": "Guyana"
+},{
+  "_id": {
+    "$oid": "613f20271fa5254136ab394b"
+  },
+  "coordinatesCapital": [
+    49.27,
+    -2.32
+  ],
+  "country": "Guernsey",
+  "germanName": "Jersey"
+},{
+  "_id": {
+    "$oid": "613f202b1fa5254136ab394d"
+  },
+  "coordinatesCapital": [
+    41.43,
+    44.47
+  ],
+  "country": "Georgia",
+  "germanName": "Georgien"
+},{
+  "_id": {
+    "$oid": "613f202f1fa5254136ab394f"
+  },
+  "coordinatesCapital": [
+    12.03,
+    -61.45
+  ],
+  "country": "Grenada",
+  "germanName": "Grenada"
+},{
+  "_id": {
+    "$oid": "613f20341fa5254136ab3951"
+  },
+  "coordinatesCapital": [
+    51.3,
+    -0.1
+  ],
+  "country": "United Kingdom",
+  "germanName": "Vereinigtes Königreich"
+},{
+  "_id": {
+    "$oid": "613f20381fa5254136ab3953"
+  },
+  "coordinatesCapital": [
+    0.23,
+    9.27
+  ],
+  "country": "Gabon",
+  "germanName": "Gabun"
+},{
+  "_id": {
+    "$oid": "613f203c1fa5254136ab3955"
+  },
+  "coordinatesCapital": [
+    13.42,
+    -89.12
+  ],
+  "country": "El Salvador",
+  "germanName": "El Salvador"
+},{
+  "_id": {
+    "$oid": "613f20411fa5254136ab3957"
+  },
+  "coordinatesCapital": [
+    9.33,
+    -13.42
+  ],
+  "country": "Guinea",
+  "germanName": "Guinea"
+},{
+  "_id": {
+    "$oid": "613f20451fa5254136ab3959"
+  },
+  "coordinatesCapital": [
+    13.27,
+    -16.34
+  ],
+  "country": "Gambia",
+  "germanName": "Gambia"
+},{
+  "_id": {
+    "$oid": "613f20491fa5254136ab395b"
+  },
+  "coordinatesCapital": [
+    64.11,
+    -51.45
+  ],
+  "country": "Greenland",
+  "germanName": "Grönland"
+},{
+  "_id": {
+    "$oid": "613f204d1fa5254136ab395d"
+  },
+  "coordinatesCapital": [
+    36.08,
+    -5.21
+  ],
+  "country": "Gibraltar",
+  "germanName": "Spanien"
+},{
+  "_id": {
+    "$oid": "613f20561fa5254136ab395f"
+  },
+  "coordinatesCapital": [
+    23.37,
+    58.35
+  ],
+  "country": "Oman",
+  "germanName": "Oman"
+},{
+  "_id": {
+    "$oid": "613f205a1fa5254136ab3961"
+  },
+  "coordinatesCapital": [
+    36.48,
+    10.11
+  ],
+  "country": "Tunisia",
+  "germanName": "Tunesien"
+},{
+  "_id": {
+    "$oid": "613f205e1fa5254136ab3963"
+  },
+  "coordinatesCapital": [
+    31.57,
+    35.56
+  ],
+  "country": "Jordan",
+  "germanName": "Jordanien"
+},{
+  "_id": {
+    "$oid": "613f20631fa5254136ab3965"
+  },
+  "coordinatesCapital": [
+    45.48,
+    16
+  ],
+  "country": "Croatia",
+  "germanName": "Kroatien"
+},{
+  "_id": {
+    "$oid": "613f20671fa5254136ab3967"
+  },
+  "coordinatesCapital": [
+    18.32,
+    -72.2
+  ],
+  "country": "Haiti",
+  "germanName": "Haiti"
+},{
+  "_id": {
+    "$oid": "613f206b1fa5254136ab3969"
+  },
+  "coordinatesCapital": [
+    47.3,
+    19.05
+  ],
+  "country": "Hungary",
+  "germanName": "Ungarn"
+},{
+  "_id": {
+    "$oid": "613f20701fa5254136ab396b"
+  },
+  "coordinatesCapital": [
+    22.15,
+    114.1
+  ],
+  "country": "Hong Kong",
+  "germanName": "China"
+},{
+  "_id": {
+    "$oid": "613f20741fa5254136ab396d"
+  },
+  "coordinatesCapital": [
+    14.06,
+    -87.13
+  ],
+  "country": "Honduras",
+  "germanName": "Honduras"
+},{
+  "_id": {
+    "$oid": "613f20781fa5254136ab396f"
+  },
+  "coordinatesCapital": [
+    -53.06,
+    72.31
+  ],
+  "country": "Heard Island and McDonald Islands",
+  "germanName": "Australien"
+},{
+  "_id": {
+    "$oid": "613f207c1fa5254136ab3971"
+  },
+  "coordinatesCapital": [
+    10.3,
+    -66.56
+  ],
+  "country": "Venezuela",
+  "germanName": "Venezuela"
+},{
+  "_id": {
+    "$oid": "613f20811fa5254136ab3973"
+  },
+  "coordinatesCapital": [
+    18.28,
+    -66.07
+  ],
+  "country": "Puerto Rico",
+  "germanName": "Vereinigte Staaten von Amerika"
+},{
+  "_id": {
+    "$oid": "613f20861fa5254136ab3975"
+  },
+  "coordinatesCapital": [
+    31.25,
+    34.2
+  ],
+  "country": "Palestinian Territory",
+  "germanName": "Ägypten"
+},{
+  "_id": {
+    "$oid": "613f208a1fa5254136ab3977"
+  },
+  "coordinatesCapital": [
+    7.29,
+    134.38
+  ],
+  "country": "Palau",
+  "germanName": "Palau"
+},{
+  "_id": {
+    "$oid": "613f208e1fa5254136ab3979"
+  },
+  "coordinatesCapital": [
+    38.43,
+    -9.08
+  ],
+  "country": "Portugal",
+  "germanName": "Portugal"
+},{
+  "_id": {
+    "$oid": "613f20931fa5254136ab397b"
+  },
+  "coordinatesCapital": [
+    78.13,
+    15.33
+  ],
+  "country": "Svalbard",
+  "germanName": "Norwegen"
+},{
+  "_id": {
+    "$oid": "613f20971fa5254136ab397d"
+  },
+  "coordinatesCapital": [
+    -25.16,
+    -57.4
+  ],
+  "country": "Paraguay",
+  "germanName": "Paraguay"
+},{
+  "_id": {
+    "$oid": "613f209b1fa5254136ab397f"
+  },
+  "coordinatesCapital": [
+    33.2,
+    44.23
+  ],
+  "country": "Iraq",
+  "germanName": "Irak"
+},{
+  "_id": {
+    "$oid": "613f209f1fa5254136ab3981"
+  },
+  "coordinatesCapital": [
+    8.58,
+    -79.32
+  ],
+  "country": "Panama",
+  "germanName": "Panama"
+},{
+  "_id": {
+    "$oid": "613f20a91fa5254136ab3983"
+  },
+  "coordinatesCapital": [
+    -9.3,
+    147.1
+  ],
+  "country": "Papua New Guinea",
+  "germanName": "Papua-Neuguinea"
+},{
+  "_id": {
+    "$oid": "613f20ad1fa5254136ab3985"
+  },
+  "coordinatesCapital": [
+    -12.03,
+    -77.03
+  ],
+  "country": "Peru",
+  "germanName": "Peru"
+},{
+  "_id": {
+    "$oid": "613f20b11fa5254136ab3987"
+  },
+  "coordinatesCapital": [
+    33.42,
+    73.1
+  ],
+  "country": "Pakistan",
+  "germanName": "Pakistan"
+},{
+  "_id": {
+    "$oid": "613f20b51fa5254136ab3989"
+  },
+  "coordinatesCapital": [
+    14.35,
+    121
+  ],
+  "country": "Philippines",
+  "germanName": "Luzon"
+},{
+  "_id": {
+    "$oid": "613f20b91fa5254136ab398b"
+  },
+  "coordinatesCapital": [
+    -25.04,
+    -130.05
+  ],
+  "country": "Pitcairn",
+  "germanName": "Pitcairninseln"
+},{
+  "_id": {
+    "$oid": "613f20bd1fa5254136ab398d"
+  },
+  "coordinatesCapital": [
+    52.15,
+    21
+  ],
+  "country": "Poland",
+  "germanName": "Polen"
+},{
+  "_id": {
+    "$oid": "613f20c61fa5254136ab398f"
+  },
+  "coordinatesCapital": [
+    -15.25,
+    28.17
+  ],
+  "country": "Zambia",
+  "germanName": "Sambia"
+},{
+  "_id": {
+    "$oid": "613f20ca1fa5254136ab3991"
+  },
+  "coordinatesCapital": [
+    24.3,
+    -13
+  ],
+  "country": "Western Sahara",
+  "germanName": "Marokko"
+},{
+  "_id": {
+    "$oid": "613f20ce1fa5254136ab3993"
+  },
+  "coordinatesCapital": [
+    59.26,
+    24.43
+  ],
+  "country": "Estonia",
+  "germanName": "Estland"
+},{
+  "_id": {
+    "$oid": "613f20d31fa5254136ab3995"
+  },
+  "coordinatesCapital": [
+    30.03,
+    31.15
+  ],
+  "country": "Egypt",
+  "germanName": "Ägypten"
+},{
+  "_id": {
+    "$oid": "613f20d71fa5254136ab3997"
+  },
+  "coordinatesCapital": [
+    -25.42,
+    28.13
+  ],
+  "country": "South Africa",
+  "germanName": "Südafrika"
+},{
+  "_id": {
+    "$oid": "613f20dc1fa5254136ab3999"
+  },
+  "coordinatesCapital": [
+    -0.13,
+    -78.3
+  ],
+  "country": "Ecuador",
+  "germanName": "Ecuador"
+},{
+  "_id": {
+    "$oid": "613f20e01fa5254136ab399b"
+  },
+  "coordinatesCapital": [
+    41.54,
+    12.29
+  ],
+  "country": "Italy",
+  "germanName": "Italien"
+},{
+  "_id": {
+    "$oid": "613f20e51fa5254136ab399d"
+  },
+  "coordinatesCapital": [
+    21.02,
+    105.51
+  ],
+  "country": "Vietnam",
+  "germanName": "Vietnam"
+},{
+  "_id": {
+    "$oid": "613f20e91fa5254136ab399f"
+  },
+  "coordinatesCapital": [
+    -9.26,
+    159.57
+  ],
+  "country": "Solomon Islands",
+  "germanName": "Salomonen"
+},{
+  "_id": {
+    "$oid": "613f20ed1fa5254136ab39a1"
+  },
+  "coordinatesCapital": [
+    50.1021,
+    9.9
+  ],
+  "country": "European Union",
+  "germanName": "Deutschland"
+},{
+  "_id": {
+    "$oid": "613f20f11fa5254136ab39a3"
+  },
+  "coordinatesCapital": [
+    9.02,
+    38.42
+  ],
+  "country": "Ethiopia",
+  "germanName": "Äthiopien"
+},{
+  "_id": {
+    "$oid": "613f20f51fa5254136ab39a5"
+  },
+  "coordinatesCapital": [
+    2.04,
+    45.22
+  ],
+  "country": "Somalia",
+  "germanName": "Somalia"
+},{
+  "_id": {
+    "$oid": "613f20fa1fa5254136ab39a7"
+  },
+  "coordinatesCapital": [
+    -17.5,
+    31.03
+  ],
+  "country": "Zimbabwe",
+  "germanName": "Simbabwe"
+},{
+  "_id": {
+    "$oid": "613f20ff1fa5254136ab39a9"
+  },
+  "coordinatesCapital": [
+    24.38,
+    46.43
+  ],
+  "country": "Saudi Arabia",
+  "germanName": "Saudi-Arabien"
+},{
+  "_id": {
+    "$oid": "613f21031fa5254136ab39ab"
+  },
+  "coordinatesCapital": [
+    40.24,
+    -3.41
+  ],
+  "country": "Spain",
+  "germanName": "Spanien"
+},{
+  "_id": {
+    "$oid": "613f21071fa5254136ab39ad"
+  },
+  "coordinatesCapital": [
+    15.2,
+    38.56
+  ],
+  "country": "Eritrea",
+  "germanName": "Eritrea"
+},{
+  "_id": {
+    "$oid": "613f210c1fa5254136ab39af"
+  },
+  "coordinatesCapital": [
+    42.26,
+    19.16
+  ],
+  "country": "Montenegro",
+  "germanName": "Montenegro"
+},{
+  "_id": {
+    "$oid": "613f21101fa5254136ab39b1"
+  },
+  "coordinatesCapital": [
+    47,
+    28.51
+  ],
+  "country": "Moldova",
+  "germanName": "Moldawien"
+},{
+  "_id": {
+    "$oid": "613f21151fa5254136ab39b3"
+  },
+  "coordinatesCapital": [
+    -18.55,
+    47.31
+  ],
+  "country": "Madagascar",
+  "germanName": "Madagaskar"
+},{
+  "_id": {
+    "$oid": "613f21191fa5254136ab39b5"
+  },
+  "coordinatesCapital": [
+    18.04,
+    -63.05
+  ],
+  "country": "Saint Martin",
+  "germanName": "Niederlande"
+},{
+  "_id": {
+    "$oid": "613f211d1fa5254136ab39b7"
+  },
+  "coordinatesCapital": [
+    34.01,
+    -6.49
+  ],
+  "country": "Morocco",
+  "germanName": "Marokko"
+},{
+  "_id": {
+    "$oid": "613f21211fa5254136ab39b9"
+  },
+  "coordinatesCapital": [
+    43.44,
+    7.25
+  ],
+  "country": "Monaco",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f21261fa5254136ab39bb"
+  },
+  "coordinatesCapital": [
+    41.2,
+    69.18
+  ],
+  "country": "Uzbekistan",
+  "germanName": "Usbekistan"
+},{
+  "_id": {
+    "$oid": "613f212a1fa5254136ab39bd"
+  },
+  "coordinatesCapital": [
+    16.48,
+    96.09
+  ],
+  "country": "Myanmar",
+  "germanName": "Myanmar"
+},{
+  "_id": {
+    "$oid": "613f212f1fa5254136ab39bf"
+  },
+  "coordinatesCapital": [
+    12.39,
+    -8
+  ],
+  "country": "Mali",
+  "germanName": "Mali"
+},{
+  "_id": {
+    "$oid": "613f21331fa5254136ab39c1"
+  },
+  "coordinatesCapital": [
+    22.1,
+    113.33
+  ],
+  "country": "Macao",
+  "germanName": "China"
+},{
+  "_id": {
+    "$oid": "613f21371fa5254136ab39c3"
+  },
+  "coordinatesCapital": [
+    47.55,
+    106.55
+  ],
+  "country": "Mongolia",
+  "germanName": "Mongolei"
+},{
+  "_id": {
+    "$oid": "613f213b1fa5254136ab39c5"
+  },
+  "coordinatesCapital": [
+    7.06,
+    171.23
+  ],
+  "country": "Marshall Islands",
+  "germanName": "Marshallinseln"
+},{
+  "_id": {
+    "$oid": "613f21401fa5254136ab39c7"
+  },
+  "coordinatesCapital": [
+    42,
+    21.26
+  ],
+  "country": "Macedonia",
+  "germanName": "Nordmazedonien"
+},{
+  "_id": {
+    "$oid": "613f21441fa5254136ab39c9"
+  },
+  "coordinatesCapital": [
+    -20.09,
+    57.29
+  ],
+  "country": "Mauritius",
+  "germanName": "Mauritius"
+},{
+  "_id": {
+    "$oid": "613f214d1fa5254136ab39cb"
+  },
+  "coordinatesCapital": [
+    -13.59,
+    33.47
+  ],
+  "country": "Malawi",
+  "germanName": "Malawi"
+},{
+  "_id": {
+    "$oid": "613f21511fa5254136ab39cd"
+  },
+  "coordinatesCapital": [
+    4.1,
+    73.3
+  ],
+  "country": "Maldives",
+  "germanName": "Malediven"
+},{
+  "_id": {
+    "$oid": "613f21551fa5254136ab39cf"
+  },
+  "coordinatesCapital": [
+    15.12,
+    145.45
+  ],
+  "country": "Northern Mariana Islands",
+  "germanName": "Vereinigte Staaten von Amerika"
+},{
+  "_id": {
+    "$oid": "613f215d1fa5254136ab39d1"
+  },
+  "coordinatesCapital": [
+    18.07,
+    -16.02
+  ],
+  "country": "Mauritania",
+  "germanName": "Mauretanien"
+},{
+  "_id": {
+    "$oid": "613f21621fa5254136ab39d3"
+  },
+  "coordinatesCapital": [
+    54.09,
+    -4.29
+  ],
+  "country": "Isle of Man",
+  "germanName": "Insel Man"
+},{
+  "_id": {
+    "$oid": "613f21671fa5254136ab39d5"
+  },
+  "coordinatesCapital": [
+    0.19,
+    32.25
+  ],
+  "country": "Uganda",
+  "germanName": "Uganda"
+},{
+  "_id": {
+    "$oid": "613f216b1fa5254136ab39d7"
+  },
+  "coordinatesCapital": [
+    3.1,
+    101.42
+  ],
+  "country": "Malaysia",
+  "germanName": "Malaysia"
+},{
+  "_id": {
+    "$oid": "613f21721fa5254136ab39d9"
+  },
+  "coordinatesCapital": [
+    19.26,
+    -99.08
+  ],
+  "country": "Mexico",
+  "germanName": "Mexiko"
+},{
+  "_id": {
+    "$oid": "613f217b1fa5254136ab39db"
+  },
+  "coordinatesCapital": [
+    48.52,
+    2.2
+  ],
+  "country": "France",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f217f1fa5254136ab39dd"
+  },
+  "coordinatesCapital": [
+    -6,
+    71.3
+  ],
+  "country": "British Indian Ocean Territory",
+  "germanName": "Britisches Territorium im Indischen Ozean"
+},{
+  "_id": {
+    "$oid": "613f21881fa5254136ab39df"
+  },
+  "coordinatesCapital": [
+    60.1,
+    24.56
+  ],
+  "country": "Finland",
+  "germanName": "Finnland"
+},{
+  "_id": {
+    "$oid": "613f218c1fa5254136ab39e1"
+  },
+  "coordinatesCapital": [
+    -18.08,
+    178.25
+  ],
+  "country": "Fiji",
+  "germanName": "Fidschi"
+},{
+  "_id": {
+    "$oid": "613f21901fa5254136ab39e3"
+  },
+  "coordinatesCapital": [
+    -51.42,
+    -57.51
+  ],
+  "country": "Falkland Islands",
+  "germanName": "Falklandinseln"
+},{
+  "_id": {
+    "$oid": "613f21991fa5254136ab39e5"
+  },
+  "coordinatesCapital": [
+    62.01,
+    -6.46
+  ],
+  "country": "Faroe Islands",
+  "germanName": "Färöer"
+},{
+  "_id": {
+    "$oid": "613f219d1fa5254136ab39e7"
+  },
+  "coordinatesCapital": [
+    12.09,
+    -86.17
+  ],
+  "country": "Nicaragua",
+  "germanName": "Nicaragua"
+},{
+  "_id": {
+    "$oid": "613f21a61fa5254136ab39e9"
+  },
+  "coordinatesCapital": [
+    52.23,
+    4.54
+  ],
+  "country": "Netherlands",
+  "germanName": "Niederlande"
+},{
+  "_id": {
+    "$oid": "613f21aa1fa5254136ab39eb"
+  },
+  "coordinatesCapital": [
+    59.55,
+    10.45
+  ],
+  "country": "Norway",
+  "germanName": "Norwegen"
+},{
+  "_id": {
+    "$oid": "613f21af1fa5254136ab39ed"
+  },
+  "coordinatesCapital": [
+    -22.34,
+    17.05
+  ],
+  "country": "Namibia",
+  "germanName": "Namibia"
+},{
+  "_id": {
+    "$oid": "613f21b31fa5254136ab39ef"
+  },
+  "coordinatesCapital": [
+    -17.44,
+    168.19
+  ],
+  "country": "Vanuatu",
+  "germanName": "Vanuatu"
+},{
+  "_id": {
+    "$oid": "613f21b71fa5254136ab39f1"
+  },
+  "coordinatesCapital": [
+    -22.16,
+    166.27
+  ],
+  "country": "New Caledonia",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f21bd1fa5254136ab39f3"
+  },
+  "coordinatesCapital": [
+    13.31,
+    2.07
+  ],
+  "country": "Niger",
+  "germanName": "Niger"
+},{
+  "_id": {
+    "$oid": "613f21c51fa5254136ab39f5"
+  },
+  "coordinatesCapital": [
+    9.05,
+    7.32
+  ],
+  "country": "Nigeria",
+  "germanName": "Nigeria"
+},{
+  "_id": {
+    "$oid": "613f21c91fa5254136ab39f7"
+  },
+  "coordinatesCapital": [
+    -41.28,
+    174.51
+  ],
+  "country": "New Zealand",
+  "germanName": "Neuseeland"
+},{
+  "_id": {
+    "$oid": "613f21cd1fa5254136ab39f9"
+  },
+  "coordinatesCapital": [
+    27.43,
+    85.19
+  ],
+  "country": "Nepal",
+  "germanName": "Nepal"
+},{
+  "_id": {
+    "$oid": "613f21df1fa5254136ab39fb"
+  },
+  "coordinatesCapital": [
+    6.49,
+    -5.17
+  ],
+  "country": "Ivory Coast",
+  "germanName": "Elfenbeinküste"
+},{
+  "_id": {
+    "$oid": "613f21e41fa5254136ab39fd"
+  },
+  "coordinatesCapital": [
+    46.57,
+    7.26
+  ],
+  "country": "Switzerland",
+  "germanName": "Schweiz"
+},{
+  "_id": {
+    "$oid": "613f21e81fa5254136ab39ff"
+  },
+  "coordinatesCapital": [
+    4.36,
+    -74.05
+  ],
+  "country": "Colombia",
+  "germanName": "Kolumbien"
+},{
+  "_id": {
+    "$oid": "613f21ec1fa5254136ab3a01"
+  },
+  "coordinatesCapital": [
+    39.55,
+    116.23
+  ],
+  "country": "China",
+  "germanName": "China"
+},{
+  "_id": {
+    "$oid": "613f21f01fa5254136ab3a03"
+  },
+  "coordinatesCapital": [
+    3.52,
+    11.31
+  ],
+  "country": "Cameroon",
+  "germanName": "Kamerun"
+},{
+  "_id": {
+    "$oid": "613f21f41fa5254136ab3a05"
+  },
+  "coordinatesCapital": [
+    -33.27,
+    -70.4
+  ],
+  "country": "Chile",
+  "germanName": "Chile"
+},{
+  "_id": {
+    "$oid": "613f21fe1fa5254136ab3a07"
+  },
+  "coordinatesCapital": [
+    45.25,
+    -75.42
+  ],
+  "country": "Canada",
+  "germanName": "Kanada"
+},{
+  "_id": {
+    "$oid": "613f22021fa5254136ab3a09"
+  },
+  "coordinatesCapital": [
+    -4.15,
+    15.17
+  ],
+  "country": "Congo Republic",
+  "germanName": "Republik Kongo"
+},{
+  "_id": {
+    "$oid": "613f22061fa5254136ab3a0b"
+  },
+  "coordinatesCapital": [
+    4.22,
+    18.35
+  ],
+  "country": "Central African Republic",
+  "germanName": "Zentralafrikanische Republik"
+},{
+  "_id": {
+    "$oid": "613f220a1fa5254136ab3a0d"
+  },
+  "coordinatesCapital": [
+    -4.19,
+    15.18
+  ],
+  "country": "Congo Democratic Republic",
+  "germanName": "Republik Kongo"
+},{
+  "_id": {
+    "$oid": "613f220f1fa5254136ab3a0f"
+  },
+  "coordinatesCapital": [
+    50.05,
+    14.28
+  ],
+  "country": "Czech Republic",
+  "germanName": "Tschechien"
+},{
+  "_id": {
+    "$oid": "613f22131fa5254136ab3a11"
+  },
+  "coordinatesCapital": [
+    35.1,
+    33.22
+  ],
+  "country": "Cyprus",
+  "germanName": "Zypern"
+},{
+  "_id": {
+    "$oid": "613f221b1fa5254136ab3a13"
+  },
+  "coordinatesCapital": [
+    9.56,
+    -84.05
+  ],
+  "country": "Costa Rica",
+  "germanName": "Costa Rica"
+},{
+  "_id": {
+    "$oid": "613f22241fa5254136ab3a15"
+  },
+  "coordinatesCapital": [
+    23.07,
+    -82.21
+  ],
+  "country": "Cuba",
+  "germanName": "Kuba"
+},{
+  "_id": {
+    "$oid": "613f22291fa5254136ab3a17"
+  },
+  "coordinatesCapital": [
+    -26.18,
+    31.06
+  ],
+  "country": "Swaziland",
+  "germanName": "Eswatini"
+},{
+  "_id": {
+    "$oid": "613f222d1fa5254136ab3a19"
+  },
+  "coordinatesCapital": [
+    33.3,
+    36.18
+  ],
+  "country": "Syria",
+  "germanName": "Syrien"
+},{
+  "_id": {
+    "$oid": "613f22321fa5254136ab3a1b"
+  },
+  "coordinatesCapital": [
+    42.52,
+    74.36
+  ],
+  "country": "Kyrgyzstan",
+  "germanName": "Kirgisistan"
+},{
+  "_id": {
+    "$oid": "613f22361fa5254136ab3a1d"
+  },
+  "coordinatesCapital": [
+    -1.17,
+    36.49
+  ],
+  "country": "Kenya",
+  "germanName": "Kenia"
+},{
+  "_id": {
+    "$oid": "613f223a1fa5254136ab3a1f"
+  },
+  "coordinatesCapital": [
+    5.5,
+    -55.1
+  ],
+  "country": "Suriname",
+  "germanName": "Suriname"
+},{
+  "_id": {
+    "$oid": "613f22431fa5254136ab3a21"
+  },
+  "coordinatesCapital": [
+    11.33,
+    104.55
+  ],
+  "country": "Cambodia",
+  "germanName": "Kambodscha"
+},{
+  "_id": {
+    "$oid": "613f22471fa5254136ab3a23"
+  },
+  "coordinatesCapital": [
+    17.18,
+    -62.43
+  ],
+  "country": "Saint Kitts and Nevis",
+  "germanName": "St. Kitts und Nevis"
+},{
+  "_id": {
+    "$oid": "613f224b1fa5254136ab3a25"
+  },
+  "coordinatesCapital": [
+    -11.42,
+    43.14
+  ],
+  "country": "Comoros",
+  "germanName": "Komoren"
+},{
+  "_id": {
+    "$oid": "613f224f1fa5254136ab3a27"
+  },
+  "coordinatesCapital": [
+    0.12,
+    6.39
+  ],
+  "country": "Sao Tome and Principe",
+  "germanName": "São Tomé und Príncipe"
+},{
+  "_id": {
+    "$oid": "613f22541fa5254136ab3a29"
+  },
+  "coordinatesCapital": [
+    48.09,
+    17.07
+  ],
+  "country": "Slovakia",
+  "germanName": "Österreich"
+},{
+  "_id": {
+    "$oid": "613f22581fa5254136ab3a2b"
+  },
+  "coordinatesCapital": [
+    37.33,
+    126.59
+  ],
+  "country": "Korea South",
+  "germanName": "Südkorea"
+},{
+  "_id": {
+    "$oid": "613f225c1fa5254136ab3a2d"
+  },
+  "coordinatesCapital": [
+    46.03,
+    14.31
+  ],
+  "country": "Slovenia",
+  "germanName": "Slowenien"
+},{
+  "_id": {
+    "$oid": "613f22601fa5254136ab3a2f"
+  },
+  "coordinatesCapital": [
+    39.01,
+    125.45
+  ],
+  "country": "Korea North",
+  "germanName": "Nordkorea"
+},{
+  "_id": {
+    "$oid": "613f22661fa5254136ab3a31"
+  },
+  "coordinatesCapital": [
+    29.22,
+    47.58
+  ],
+  "country": "Kuwait",
+  "germanName": "Kuwait"
+},{
+  "_id": {
+    "$oid": "613f226b1fa5254136ab3a33"
+  },
+  "coordinatesCapital": [
+    14.4,
+    -17.26
+  ],
+  "country": "Senegal",
+  "germanName": "Senegal"
+},{
+  "_id": {
+    "$oid": "613f226f1fa5254136ab3a35"
+  },
+  "coordinatesCapital": [
+    43.56,
+    12.25
+  ],
+  "country": "San Marino",
+  "germanName": "Italien"
+},{
+  "_id": {
+    "$oid": "613f22731fa5254136ab3a37"
+  },
+  "coordinatesCapital": [
+    8.3,
+    -13.15
+  ],
+  "country": "Sierra Leone",
+  "germanName": "Sierra Leone"
+},{
+  "_id": {
+    "$oid": "613f22771fa5254136ab3a39"
+  },
+  "coordinatesCapital": [
+    -4.38,
+    55.27
+  ],
+  "country": "Seychelles",
+  "germanName": "Seychellen"
+},{
+  "_id": {
+    "$oid": "613f227b1fa5254136ab3a3b"
+  },
+  "coordinatesCapital": [
+    51.1,
+    71.25
+  ],
+  "country": "Kazakhstan",
+  "germanName": "Kasachstan"
+},{
+  "_id": {
+    "$oid": "613f227f1fa5254136ab3a3d"
+  },
+  "coordinatesCapital": [
+    19.18,
+    -81.23
+  ],
+  "country": "Cayman Islands",
+  "germanName": "Kaimaninseln"
+},{
+  "_id": {
+    "$oid": "613f22841fa5254136ab3a3f"
+  },
+  "coordinatesCapital": [
+    1.17,
+    103.51
+  ],
+  "country": "Singapore",
+  "germanName": "Indonesien"
+},{
+  "_id": {
+    "$oid": "613f22881fa5254136ab3a41"
+  },
+  "coordinatesCapital": [
+    59.2,
+    18.03
+  ],
+  "country": "Sweden",
+  "germanName": "Schweden"
+},{
+  "_id": {
+    "$oid": "613f228c1fa5254136ab3a43"
+  },
+  "coordinatesCapital": [
+    15.36,
+    32.32
+  ],
+  "country": "Sudan",
+  "germanName": "Sudan"
+},{
+  "_id": {
+    "$oid": "613f22901fa5254136ab3a45"
+  },
+  "coordinatesCapital": [
+    18.28,
+    -69.54
+  ],
+  "country": "Dominican Republic",
+  "germanName": "Dominikanische Republik"
+},{
+  "_id": {
+    "$oid": "613f22951fa5254136ab3a47"
+  },
+  "coordinatesCapital": [
+    15.18,
+    -61.24
+  ],
+  "country": "Dominica",
+  "germanName": "Dominica"
+},{
+  "_id": {
+    "$oid": "613f22991fa5254136ab3a49"
+  },
+  "coordinatesCapital": [
+    11.35,
+    43.09
+  ],
+  "country": "Djibouti",
+  "germanName": "Dschibuti"
+},{
+  "_id": {
+    "$oid": "613f229d1fa5254136ab3a4b"
+  },
+  "coordinatesCapital": [
+    55.4,
+    12.35
+  ],
+  "country": "Denmark",
+  "germanName": "Dänemark"
+},{
+  "_id": {
+    "$oid": "613f22a11fa5254136ab3a4d"
+  },
+  "coordinatesCapital": [
+    18.27,
+    -64.37
+  ],
+  "country": "British Virgin Islands",
+  "germanName": "Britische Jungferninseln"
+},{
+  "_id": {
+    "$oid": "613f22a51fa5254136ab3a4f"
+  },
+  "coordinatesCapital": [
+    52.31,
+    13.24
+  ],
+  "country": "Germany",
+  "germanName": "Deutschland"
+},{
+  "_id": {
+    "$oid": "613f22a91fa5254136ab3a51"
+  },
+  "coordinatesCapital": [
+    15.21,
+    44.12
+  ],
+  "country": "Yemen",
+  "germanName": "Jemen"
+},{
+  "_id": {
+    "$oid": "613f22ae1fa5254136ab3a53"
+  },
+  "coordinatesCapital": [
+    36.45,
+    3.03
+  ],
+  "country": "Algeria",
+  "germanName": "Algerien"
+},{
+  "_id": {
+    "$oid": "613f22b21fa5254136ab3a55"
+  },
+  "coordinatesCapital": [
+    38.53,
+    -77.02
+  ],
+  "country": "United States",
+  "germanName": "Vereinigte Staaten von Amerika"
+},{
+  "_id": {
+    "$oid": "613f22b61fa5254136ab3a57"
+  },
+  "coordinatesCapital": [
+    -34.53,
+    -56.11
+  ],
+  "country": "Uruguay",
+  "germanName": "Uruguay"
+},{
+  "_id": {
+    "$oid": "613f22ba1fa5254136ab3a59"
+  },
+  "coordinatesCapital": [
+    -12.46,
+    45.13
+  ],
+  "country": "Mayotte",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f22be1fa5254136ab3a5b"
+  },
+  "coordinatesCapital": [
+    33.52,
+    35.3
+  ],
+  "country": "Lebanon",
+  "germanName": "Libanon"
+},{
+  "_id": {
+    "$oid": "613f22c31fa5254136ab3a5d"
+  },
+  "coordinatesCapital": [
+    14.01,
+    -61
+  ],
+  "country": "Saint Lucia",
+  "germanName": "St. Lucia"
+},{
+  "_id": {
+    "$oid": "613f22c71fa5254136ab3a5f"
+  },
+  "coordinatesCapital": [
+    17.58,
+    102.36
+  ],
+  "country": "Laos",
+  "germanName": "Thailand"
+},{
+  "_id": {
+    "$oid": "613f22cb1fa5254136ab3a61"
+  },
+  "coordinatesCapital": [
+    -8.3,
+    179.12
+  ],
+  "country": "Tuvalu",
+  "germanName": "Tuvalu"
+},{
+  "_id": {
+    "$oid": "613f22cf1fa5254136ab3a63"
+  },
+  "coordinatesCapital": [
+    25.03,
+    121.3
+  ],
+  "country": "Taiwan",
+  "germanName": "Taiwan"
+},{
+  "_id": {
+    "$oid": "613f22d31fa5254136ab3a65"
+  },
+  "coordinatesCapital": [
+    10.39,
+    -61.31
+  ],
+  "country": "Trinidad and Tobago",
+  "germanName": "Trinidad und Tobago"
+},{
+  "_id": {
+    "$oid": "613f22d81fa5254136ab3a67"
+  },
+  "coordinatesCapital": [
+    39.56,
+    32.52
+  ],
+  "country": "Turkey",
+  "germanName": "Türkei"
+},{
+  "_id": {
+    "$oid": "613f22e11fa5254136ab3a69"
+  },
+  "coordinatesCapital": [
+    47.08,
+    9.31
+  ],
+  "country": "Liechtenstein",
+  "germanName": "Schweiz"
+},{
+  "_id": {
+    "$oid": "613f22e61fa5254136ab3a6b"
+  },
+  "coordinatesCapital": [
+    56.57,
+    24.06
+  ],
+  "country": "Latvia",
+  "germanName": "Lettland"
+},{
+  "_id": {
+    "$oid": "613f22ea1fa5254136ab3a6d"
+  },
+  "coordinatesCapital": [
+    -21.08,
+    -175.12
+  ],
+  "country": "Tonga",
+  "germanName": "Tonga"
+},{
+  "_id": {
+    "$oid": "613f22ee1fa5254136ab3a6f"
+  },
+  "coordinatesCapital": [
+    54.41,
+    25.19
+  ],
+  "country": "Lithuania",
+  "germanName": "Litauen"
+},{
+  "_id": {
+    "$oid": "613f22f31fa5254136ab3a71"
+  },
+  "coordinatesCapital": [
+    49.36,
+    6.07
+  ],
+  "country": "Luxembourg",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f22f71fa5254136ab3a73"
+  },
+  "coordinatesCapital": [
+    6.18,
+    -10.48
+  ],
+  "country": "Liberia",
+  "germanName": "Liberia"
+},{
+  "_id": {
+    "$oid": "613f22fb1fa5254136ab3a75"
+  },
+  "coordinatesCapital": [
+    -29.19,
+    27.29
+  ],
+  "country": "Lesotho",
+  "germanName": "Südafrika"
+},{
+  "_id": {
+    "$oid": "613f22ff1fa5254136ab3a77"
+  },
+  "coordinatesCapital": [
+    13.45,
+    100.31
+  ],
+  "country": "Thailand",
+  "germanName": "Thailand"
+},{
+  "_id": {
+    "$oid": "613f23071fa5254136ab3a79"
+  },
+  "coordinatesCapital": [
+    6.08,
+    1.13
+  ],
+  "country": "Togo",
+  "germanName": "Ghana"
+},{
+  "_id": {
+    "$oid": "613f230c1fa5254136ab3a7b"
+  },
+  "coordinatesCapital": [
+    12.06,
+    15.02
+  ],
+  "country": "Chad",
+  "germanName": "Kamerun"
+},{
+  "_id": {
+    "$oid": "613f23101fa5254136ab3a7d"
+  },
+  "coordinatesCapital": [
+    21.28,
+    -71.08
+  ],
+  "country": "Turks and Caicos Islands",
+  "germanName": "Turks- und Caicosinseln"
+},{
+  "_id": {
+    "$oid": "613f23141fa5254136ab3a7f"
+  },
+  "coordinatesCapital": [
+    32.53,
+    13.1
+  ],
+  "country": "Libya",
+  "germanName": "Libyen"
+},{
+  "_id": {
+    "$oid": "613f23191fa5254136ab3a81"
+  },
+  "coordinatesCapital": [
+    41.54,
+    12.27
+  ],
+  "country": "Holy See",
+  "germanName": "Italien"
+},{
+  "_id": {
+    "$oid": "613f231e1fa5254136ab3a83"
+  },
+  "coordinatesCapital": [
+    13.09,
+    -61.14
+  ],
+  "country": "Saint Vincent and the Grenadines",
+  "germanName": "St. Vincent und die Grenadinen"
+},{
+  "_id": {
+    "$oid": "613f23231fa5254136ab3a85"
+  },
+  "coordinatesCapital": [
+    24.28,
+    54.22
+  ],
+  "country": "United Arab Emirates",
+  "germanName": "Vereinigte Arabische Emirate"
+},{
+  "_id": {
+    "$oid": "613f23271fa5254136ab3a87"
+  },
+  "coordinatesCapital": [
+    42.3,
+    1.31
+  ],
+  "country": "Andorra",
+  "germanName": "Spanien"
+},{
+  "_id": {
+    "$oid": "613f232b1fa5254136ab3a89"
+  },
+  "coordinatesCapital": [
+    17.07,
+    -61.51
+  ],
+  "country": "Antigua and Barbuda",
+  "germanName": "Antigua und Barbuda"
+},{
+  "_id": {
+    "$oid": "613f232f1fa5254136ab3a8b"
+  },
+  "coordinatesCapital": [
+    34.31,
+    69.11
+  ],
+  "country": "Afghanistan",
+  "germanName": "Afghanistan"
+},{
+  "_id": {
+    "$oid": "613f23341fa5254136ab3a8d"
+  },
+  "coordinatesCapital": [
+    18.13,
+    -63.03
+  ],
+  "country": "Anguilla",
+  "germanName": "Frankreich"
+},{
+  "_id": {
+    "$oid": "613f23391fa5254136ab3a8f"
+  },
+  "coordinatesCapital": [
+    18.21,
+    -64.56
+  ],
+  "country": "Virgin Islands",
+  "germanName": "Britische Jungferninseln"
+},{
+  "_id": {
+    "$oid": "613f233d1fa5254136ab3a91"
+  },
+  "coordinatesCapital": [
+    64.09,
+    -21.57
+  ],
+  "country": "Iceland",
+  "germanName": "Island"
+},{
+  "_id": {
+    "$oid": "613f23411fa5254136ab3a93"
+  },
+  "coordinatesCapital": [
+    35.4,
+    51.25
+  ],
+  "country": "Iran",
+  "germanName": "Iran"
+},{
+  "_id": {
+    "$oid": "613f23451fa5254136ab3a95"
+  },
+  "coordinatesCapital": [
+    40.1,
+    44.3
+  ],
+  "country": "Armenia",
+  "germanName": "Armenien"
+},{
+  "_id": {
+    "$oid": "613f234a1fa5254136ab3a97"
+  },
+  "coordinatesCapital": [
+    41.19,
+    19.49
+  ],
+  "country": "Albania",
+  "germanName": "Albanien"
+},{
+  "_id": {
+    "$oid": "613f23541fa5254136ab3a99"
+  },
+  "coordinatesCapital": [
+    12.06,
+    -68.56
+  ],
+  "country": "Netherlands Antilles",
+  "germanName": "Niederlande"
+},{
+  "_id": {
+    "$oid": "613f23611fa5254136ab3a9b"
+  },
+  "coordinatesCapital": [
+    -14.16,
+    -170.42
+  ],
+  "country": "American Samoa",
+  "germanName": "Vereinigte Staaten von Amerika"
+},{
+  "_id": {
+    "$oid": "613f23651fa5254136ab3a9d"
+  },
+  "coordinatesCapital": [
+    -34.36,
+    -58.4
+  ],
+  "country": "Argentina",
+  "germanName": "Argentinien"
+},{
+  "_id": {
+    "$oid": "613f23691fa5254136ab3a9f"
+  },
+  "coordinatesCapital": [
+    -35.17,
+    149.13
+  ],
+  "country": "Australia",
+  "germanName": "Australien"
+},{
+  "_id": {
+    "$oid": "613f236e1fa5254136ab3aa1"
+  },
+  "coordinatesCapital": [
+    48.12,
+    16.22
+  ],
+  "country": "Austria",
+  "germanName": "Österreich"
+},{
+  "_id": {
+    "$oid": "613f23721fa5254136ab3aa3"
+  },
+  "coordinatesCapital": [
+    12.31,
+    -70.02
+  ],
+  "country": "Aruba",
+  "germanName": "Venezuela"
+},{
+  "_id": {
+    "$oid": "613f23761fa5254136ab3aa5"
+  },
+  "coordinatesCapital": [
+    28.36,
+    77.12
+  ],
+  "country": "India",
+  "germanName": "Indien"
+},{
+  "_id": {
+    "$oid": "613f237b1fa5254136ab3aa7"
+  },
+  "coordinatesCapital": [
+    -6.48,
+    39.17
+  ],
+  "country": "Tanzania",
+  "germanName": "Tansania"
+},{
+  "_id": {
+    "$oid": "613f237f1fa5254136ab3aa9"
+  },
+  "coordinatesCapital": [
+    40.23,
+    49.52
+  ],
+  "country": "Azerbaijan",
+  "germanName": "Aserbaidschan"
+},{
+  "_id": {
+    "$oid": "613f23831fa5254136ab3aab"
+  },
+  "coordinatesCapital": [
+    53.19,
+    -6.14
+  ],
+  "country": "Ireland",
+  "germanName": "Irland"
+},{
+  "_id": {
+    "$oid": "613f23871fa5254136ab3aad"
+  },
+  "coordinatesCapital": [
+    -6.1,
+    106.49
+  ],
+  "country": "Indonesia",
+  "germanName": "Indonesien"
+},{
+  "_id": {
+    "$oid": "613f238b1fa5254136ab3aaf"
+  },
+  "coordinatesCapital": [
+    50.441,
+    30.554
+  ],
+  "country": "Ukraine",
+  "germanName": "Ukraine"
+},{
+  "_id": {
+    "$oid": "613f23901fa5254136ab3ab1"
+  },
+  "coordinatesCapital": [
+    25.17,
+    51.32
+  ],
+  "country": "Qatar",
+  "germanName": "Katar"
+},{
+  "_id": {
+    "$oid": "613f23941fa5254136ab3ab3"
+  },
+  "coordinatesCapital": [
+    -25.57,
+    32.35
+  ],
+  "country": "Mozambique",
+  "germanName": "Mosambik"
+}]

@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "properties": {
+            "country": "Bangladesh",
+            "city": "Dhaka",
+            "tld": "bd",
+            "iso3": "BGD",
+            "iso2": "BD"
+        },
+        "geometry": {
+            "coordinates": [90.24, 23.43],
+            "type": "Point"
+        },
+        "id": "BD"
+    }, {
+        "properties": {
+            "country": "Belgium",
+            "city": "Brussels",
+            "tld": "be",
+            "iso3": "BEL",
+            "iso2": "BE"
+        },
+        "geometry": {
+            "coordinates": [4.2, 50.5],
+            "type": "Point"
+        },
+        "id": "BE"
+    }]
+}

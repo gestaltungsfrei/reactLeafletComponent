@@ -1,5 +1,6 @@
 import mongoose from 'mongoose'
 import Overview from '../models/overview.js'
+import Country from '../models/Country.js'
 
 import { createRequire } from "module"; // Bring in the ability to create the 'require' method
 const require = createRequire(import.meta.url); // construct the require method
@@ -25,7 +26,8 @@ mongoose.connect( URI, {
 
   const correctPromises = laender.map((countryName, index) =>  {
     console.log(countryName)
-    return Overview.updateMany({"country": index}, {"$set":{"country" : countryName}} )
+    // return Overview.updateMany({"country": index}, {"$set":{"country" : countryName}} )
+    return Country.updateMany({"countryName": index}, {"$set":{"countryName" : countryName}} )
   })
 
   try {

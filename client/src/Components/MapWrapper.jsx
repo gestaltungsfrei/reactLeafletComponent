@@ -3,7 +3,7 @@ import { Map, TileLayer, Polygon, Marker } from 'react-leaflet'
 import L from 'leaflet'
 import MapPolygon from './MapPolygon'
 import countries from '../data/countries.geo.json'
-import { fetchAllBorders, fetchCountryByCoord, getGermanCountryName, newCenterCoord } from '../functions/mapFunctions'
+import { fetchAllBorders, fetchCountryByCoord, getGermanCountry, getGermanCountryName, newCenterCoord } from '../functions/mapFunctions'
 
 export default function MapWrapper(props) {
     const [border, setBorder] = useState([])
@@ -14,17 +14,20 @@ export default function MapWrapper(props) {
 
     //mapCLick getting the country and coordinates of new border, change these states
     const handleMapClick = async (e) => {
-        const countryFetch = await fetchCountryByCoord(e)
-        if (countryFetch[0].address) {
-                const latLngs = await fetchAllBorders(countryFetch[0].address.country, L)
-                setBorder(() => latLngs) 
-                setCountry(() => countryFetch[0].address.country)
-                // setCountryDe(() => countryFetch[1].address.country)
-        }
-        else {
-            setCountry('')
-            setCountryDe('')
-        }
+        // if (mapStyle !== 'choro'){
+            const countryFetch = await fetchCountryByCoord(e)
+            if (countryFetch[0].address) {
+                    const latLngs = await fetchAllBorders(countryFetch[0].address.country, L)
+                    setBorder(() => latLngs) 
+                    setCountry(() => countryFetch[0].address.country)
+                    // setCountryDe(() => countryFetch[1].address.country)
+            }
+            else {
+                setCountry('')
+                setCountryDe('')
+            }
+        // }
+       
     }
 
     //border and the centering should only take place when country is changed
@@ -36,10 +39,17 @@ export default function MapWrapper(props) {
             .then((res) => setMapCenter(res))
         },[country])
 
+    // useEffect(() => {
+    //     getGermanCountryName(mapCenter)
+    //      .then((res) => setCountryDe(res))
+    // },[mapCenter])
+
     useEffect(() => {
-        getGermanCountryName(mapCenter)
-         .then((res) => setCountryDe(res))
-    },[mapCenter])
+        getGermanCountry(country)
+        .then((res) => {
+            console.log('This is the german name? ',res)
+            setCountryDe(res)})
+    }, [country])
 
   
     return (
@@ -52,7 +62,7 @@ export default function MapWrapper(props) {
                 {/* 4 Map Styles - Choro - Hot - Osm - Topo */}
                {mapStyle=== 'choro'
                 ?   countries.features.map((element, index) => 
-                        <MapPolygon polyColor={polyColor} border={border} L={L} country={element.properties.name} />) 
+                        <MapPolygon polyColor={polyColor} L={L} country={element.properties.name} index={index}/>) 
                 :  (<>
                     {/* Only with Hot, Osm and Topo maptiles are loaded */}
                     <TileLayer

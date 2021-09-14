@@ -1,0 +1,1195 @@
+[{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109d5"
+  },
+  "countryName": "Afghanistan",
+  "numArticles": 611
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109d6"
+  },
+  "countryName": "Ägypten",
+  "numArticles": 641
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109d7"
+  },
+  "countryName": "Albanien",
+  "numArticles": 143
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109d8"
+  },
+  "countryName": "Algerien",
+  "numArticles": 460
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109d9"
+  },
+  "countryName": "Andorra",
+  "numArticles": 12
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109da"
+  },
+  "countryName": "Angola",
+  "numArticles": 187
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109db"
+  },
+  "countryName": "Antigua und Barbuda",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109dc"
+  },
+  "countryName": "Äquatorialguinea",
+  "numArticles": 25
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109dd"
+  },
+  "countryName": "Argentinien",
+  "numArticles": 343
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109de"
+  },
+  "countryName": "Armenien",
+  "numArticles": 104
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109df"
+  },
+  "countryName": "Aserbaidschan",
+  "numArticles": 140
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e0"
+  },
+  "countryName": "Äthiopien",
+  "numArticles": 182
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e1"
+  },
+  "countryName": "Australien",
+  "numArticles": 281
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e2"
+  },
+  "countryName": "Bahamas",
+  "numArticles": 21
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e3"
+  },
+  "countryName": "Bahrain",
+  "numArticles": 101
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e4"
+  },
+  "countryName": "Bangladesch",
+  "numArticles": 159
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e5"
+  },
+  "countryName": "Barbados",
+  "numArticles": 4
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e6"
+  },
+  "countryName": "Belarus",
+  "numArticles": 17
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e7"
+  },
+  "countryName": "Belgien",
+  "numArticles": 315
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e8"
+  },
+  "countryName": "Belize",
+  "numArticles": 12
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109e9"
+  },
+  "countryName": "Benin",
+  "numArticles": 101
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ea"
+  },
+  "countryName": "Bhutan",
+  "numArticles": 16
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109eb"
+  },
+  "countryName": "Bolivien, Plurinationaler Staat",
+  "numArticles": 8
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ec"
+  },
+  "countryName": "Bosnien und Herzegowina",
+  "numArticles": 111
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ed"
+  },
+  "countryName": "Botsuana",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ee"
+  },
+  "countryName": "Brasilien",
+  "numArticles": 587
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ef"
+  },
+  "countryName": "Brunei Darussalam",
+  "numArticles": 2
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f0"
+  },
+  "countryName": "Bulgarien",
+  "numArticles": 143
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f1"
+  },
+  "countryName": "Burkina Faso",
+  "numArticles": 159
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f2"
+  },
+  "countryName": "Burundi",
+  "numArticles": 113
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f3"
+  },
+  "countryName": "Cabo Verde",
+  "numArticles": 0
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f4"
+  },
+  "countryName": "Chile",
+  "numArticles": 286
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f5"
+  },
+  "countryName": "China",
+  "numArticles": 1000
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f6"
+  },
+  "countryName": "Cookinseln",
+  "numArticles": 4
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f7"
+  },
+  "countryName": "Costa Rica",
+  "numArticles": 72
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f8"
+  },
+  "countryName": "Côte d'Ivoire",
+  "numArticles": 30
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109f9"
+  },
+  "countryName": "Dänemark",
+  "numArticles": 157
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109fa"
+  },
+  "countryName": "Deutschland",
+  "numArticles": 1000
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109fb"
+  },
+  "countryName": "Dominica",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109fc"
+  },
+  "countryName": "Dominikanische Republik",
+  "numArticles": 51
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109fd"
+  },
+  "countryName": "Dschibuti",
+  "numArticles": 53
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109fe"
+  },
+  "countryName": "Ecuador",
+  "numArticles": 187
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b842109ff"
+  },
+  "countryName": "El Salvador",
+  "numArticles": 127
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a00"
+  },
+  "countryName": "Eritrea",
+  "numArticles": 81
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a01"
+  },
+  "countryName": "Estland",
+  "numArticles": 61
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a02"
+  },
+  "countryName": "Eswatini",
+  "numArticles": 2
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a03"
+  },
+  "countryName": "Fidschi",
+  "numArticles": 14
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a04"
+  },
+  "countryName": "Finnland",
+  "numArticles": 110
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a05"
+  },
+  "countryName": "Frankreich",
+  "numArticles": 1000
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a06"
+  },
+  "countryName": "Gabun",
+  "numArticles": 113
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a07"
+  },
+  "countryName": "Gambia",
+  "numArticles": 43
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a08"
+  },
+  "countryName": "Georgien",
+  "numArticles": 152
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a09"
+  },
+  "countryName": "Ghana",
+  "numArticles": 141
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0a"
+  },
+  "countryName": "Grenada",
+  "numArticles": 21
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0b"
+  },
+  "countryName": "Griechenland",
+  "numArticles": 417
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0c"
+  },
+  "countryName": "Guatemala",
+  "numArticles": 131
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0d"
+  },
+  "countryName": "Guinea",
+  "numArticles": 161
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0e"
+  },
+  "countryName": "Guinea-Bissau",
+  "numArticles": 60
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a0f"
+  },
+  "countryName": "Guyana",
+  "numArticles": 30
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a10"
+  },
+  "countryName": "Haiti",
+  "numArticles": 124
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a11"
+  },
+  "countryName": "Heiliger Stuhl",
+  "numArticles": 22
+},{
+  "_id": {
+    "$oid": "613b3d68f9ec972b84210a12"
+  },
+  "countryName": "Honduras",
+  "numArticles": 114
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a13"
+  },
+  "countryName": "Indien",
+  "numArticles": 803
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a14"
+  },
+  "countryName": "Indonesien",
+  "numArticles": 300
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a15"
+  },
+  "countryName": "Irak",
+  "numArticles": 965
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a16"
+  },
+  "countryName": "Iran, Islamische Republik",
+  "numArticles": 172
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a17"
+  },
+  "countryName": "Irland",
+  "numArticles": 174
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a18"
+  },
+  "countryName": "Island",
+  "numArticles": 128
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a19"
+  },
+  "countryName": "Israel",
+  "numArticles": 856
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1a"
+  },
+  "countryName": "Italien",
+  "numArticles": 659
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1b"
+  },
+  "countryName": "Jamaika",
+  "numArticles": 23
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1c"
+  },
+  "countryName": "Japan",
+  "numArticles": 700
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1d"
+  },
+  "countryName": "Jemen",
+  "numArticles": 232
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1e"
+  },
+  "countryName": "Jordanien",
+  "numArticles": 274
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a1f"
+  },
+  "countryName": "Kambodscha",
+  "numArticles": 107
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a20"
+  },
+  "countryName": "Kamerun",
+  "numArticles": 134
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a21"
+  },
+  "countryName": "Kanada",
+  "numArticles": 461
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a22"
+  },
+  "countryName": "Kasachstan",
+  "numArticles": 151
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a23"
+  },
+  "countryName": "Katar",
+  "numArticles": 177
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a24"
+  },
+  "countryName": "Kenia",
+  "numArticles": 179
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a25"
+  },
+  "countryName": "Kirgisistan",
+  "numArticles": 37
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a26"
+  },
+  "countryName": "Kiribati",
+  "numArticles": 7
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a27"
+  },
+  "countryName": "Kolumbien",
+  "numArticles": 285
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a28"
+  },
+  "countryName": "Komoren",
+  "numArticles": 33
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a29"
+  },
+  "countryName": "Kongo",
+  "numArticles": 291
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2a"
+  },
+  "countryName": "Kongo, Demokratische Republik",
+  "numArticles": 168
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2b"
+  },
+  "countryName": "Korea, Demokratische Volksrepublik",
+  "numArticles": 24
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2c"
+  },
+  "countryName": "Korea, Republik",
+  "numArticles": 48
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2d"
+  },
+  "countryName": "Kosovo",
+  "numArticles": 273
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2e"
+  },
+  "countryName": "Kroatien",
+  "numArticles": 128
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a2f"
+  },
+  "countryName": "Kuba",
+  "numArticles": 276
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a30"
+  },
+  "countryName": "Kuwait",
+  "numArticles": 195
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a31"
+  },
+  "countryName": "Laos, Demokratische Volksrepublik ",
+  "numArticles": 7
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a32"
+  },
+  "countryName": "Lesotho",
+  "numArticles": 23
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a33"
+  },
+  "countryName": "Lettland",
+  "numArticles": 51
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a34"
+  },
+  "countryName": "Libanon",
+  "numArticles": 364
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a35"
+  },
+  "countryName": "Liberia",
+  "numArticles": 100
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a36"
+  },
+  "countryName": "Libyen",
+  "numArticles": 302
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a37"
+  },
+  "countryName": "Liechtenstein",
+  "numArticles": 19
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a38"
+  },
+  "countryName": "Litauen",
+  "numArticles": 74
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a39"
+  },
+  "countryName": "Luxemburg",
+  "numArticles": 162
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3a"
+  },
+  "countryName": "Madagaskar",
+  "numArticles": 92
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3b"
+  },
+  "countryName": "Malawi",
+  "numArticles": 37
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3c"
+  },
+  "countryName": "Malaysia",
+  "numArticles": 175
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3d"
+  },
+  "countryName": "Malediven",
+  "numArticles": 13
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3e"
+  },
+  "countryName": "Mali",
+  "numArticles": 248
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a3f"
+  },
+  "countryName": "Malta",
+  "numArticles": 58
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a40"
+  },
+  "countryName": "Marokko",
+  "numArticles": 355
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a41"
+  },
+  "countryName": "Marshallinseln",
+  "numArticles": 8
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a42"
+  },
+  "countryName": "Mauretanien",
+  "numArticles": 89
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a43"
+  },
+  "countryName": "Mauritius",
+  "numArticles": 41
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a44"
+  },
+  "countryName": "Mexiko",
+  "numArticles": 482
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a45"
+  },
+  "countryName": "Mikronesien, Föderierte Staaten von",
+  "numArticles": 2
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a46"
+  },
+  "countryName": "Moldau, Republik",
+  "numArticles": 18
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a47"
+  },
+  "countryName": "Monaco",
+  "numArticles": 25
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a48"
+  },
+  "countryName": "Mongolei",
+  "numArticles": 52
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a49"
+  },
+  "countryName": "Montenegro",
+  "numArticles": 93
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4a"
+  },
+  "countryName": "Mosambik",
+  "numArticles": 109
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4b"
+  },
+  "countryName": "Myanmar",
+  "numArticles": 57
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4c"
+  },
+  "countryName": "Namibia",
+  "numArticles": 58
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4d"
+  },
+  "countryName": "Nauru",
+  "numArticles": 11
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4e"
+  },
+  "countryName": "Nepal",
+  "numArticles": 51
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a4f"
+  },
+  "countryName": "Neuseeland",
+  "numArticles": 91
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a50"
+  },
+  "countryName": "Nicaragua",
+  "numArticles": 163
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a51"
+  },
+  "countryName": "Niederlande",
+  "numArticles": 278
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a52"
+  },
+  "countryName": "Niger",
+  "numArticles": 155
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a53"
+  },
+  "countryName": "Nigeria",
+  "numArticles": 290
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a54"
+  },
+  "countryName": "Niue",
+  "numArticles": 2
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a55"
+  },
+  "countryName": "Nordmazedonien",
+  "numArticles": 8
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a56"
+  },
+  "countryName": "Norwegen",
+  "numArticles": 154
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a57"
+  },
+  "countryName": "Oman",
+  "numArticles": 62
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a58"
+  },
+  "countryName": "Österreich",
+  "numArticles": 241
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a59"
+  },
+  "countryName": "Pakistan",
+  "numArticles": 460
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5a"
+  },
+  "countryName": "Palau",
+  "numArticles": 12
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5b"
+  },
+  "countryName": "Panama",
+  "numArticles": 112
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5c"
+  },
+  "countryName": "Papua-Neuguinea",
+  "numArticles": 32
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5d"
+  },
+  "countryName": "Paraguay",
+  "numArticles": 104
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5e"
+  },
+  "countryName": "Peru",
+  "numArticles": 178
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a5f"
+  },
+  "countryName": "Philippinen",
+  "numArticles": 176
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a60"
+  },
+  "countryName": "Polen",
+  "numArticles": 529
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a61"
+  },
+  "countryName": "Portugal",
+  "numArticles": 222
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a62"
+  },
+  "countryName": "Ruanda",
+  "numArticles": 266
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a63"
+  },
+  "countryName": "Rumänien",
+  "numArticles": 181
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a64"
+  },
+  "countryName": "Russland",
+  "numArticles": 990
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a65"
+  },
+  "countryName": "Salomonen",
+  "numArticles": 26
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a66"
+  },
+  "countryName": "Sambia",
+  "numArticles": 89
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a67"
+  },
+  "countryName": "Samoa",
+  "numArticles": 3
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a68"
+  },
+  "countryName": "San Marino",
+  "numArticles": 7
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a69"
+  },
+  "countryName": "São Tomé und Príncipe",
+  "numArticles": 19
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6a"
+  },
+  "countryName": "Saudi-Arabien",
+  "numArticles": 522
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6b"
+  },
+  "countryName": "Schweden",
+  "numArticles": 231
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6c"
+  },
+  "countryName": "Schweiz",
+  "numArticles": 314
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6d"
+  },
+  "countryName": "Senegal",
+  "numArticles": 234
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6e"
+  },
+  "countryName": "Serbien",
+  "numArticles": 218
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a6f"
+  },
+  "countryName": "Seychellen",
+  "numArticles": 15
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a70"
+  },
+  "countryName": "Sierra Leone",
+  "numArticles": 118
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a71"
+  },
+  "countryName": "Simbabwe",
+  "numArticles": 126
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a72"
+  },
+  "countryName": "Singapur",
+  "numArticles": 212
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a73"
+  },
+  "countryName": "Slowakei",
+  "numArticles": 109
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a74"
+  },
+  "countryName": "Slowenien",
+  "numArticles": 107
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a75"
+  },
+  "countryName": "Somalia",
+  "numArticles": 208
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a76"
+  },
+  "countryName": "Spanien",
+  "numArticles": 578
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a77"
+  },
+  "countryName": "Sri Lanka",
+  "numArticles": 101
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a78"
+  },
+  "countryName": "St. Kitts und Nevis",
+  "numArticles": 3
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a79"
+  },
+  "countryName": "St. Lucia",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7a"
+  },
+  "countryName": "St. Vincent und die Grenadinen",
+  "numArticles": 8
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7b"
+  },
+  "countryName": "Südafrika",
+  "numArticles": 455
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7c"
+  },
+  "countryName": "Sudan",
+  "numArticles": 294
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7d"
+  },
+  "countryName": "Südsudan",
+  "numArticles": 69
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7e"
+  },
+  "countryName": "Suriname",
+  "numArticles": 1
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a7f"
+  },
+  "countryName": "Syrien, Arabische Republik",
+  "numArticles": 86
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a80"
+  },
+  "countryName": "Tadschikistan",
+  "numArticles": 95
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a81"
+  },
+  "countryName": "Tansania, Vereinigte Republik",
+  "numArticles": 15
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a82"
+  },
+  "countryName": "Thailand",
+  "numArticles": 197
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a83"
+  },
+  "countryName": "Timor-Leste",
+  "numArticles": 3
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a84"
+  },
+  "countryName": "Togo",
+  "numArticles": 88
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a85"
+  },
+  "countryName": "Tonga",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a86"
+  },
+  "countryName": "Trinidad und Tobago",
+  "numArticles": 10
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a87"
+  },
+  "countryName": "Tschad",
+  "numArticles": 161
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a88"
+  },
+  "countryName": "Tschechien",
+  "numArticles": 116
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a89"
+  },
+  "countryName": "Tunesien",
+  "numArticles": 282
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8a"
+  },
+  "countryName": "Türkei",
+  "numArticles": 643
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8b"
+  },
+  "countryName": "Turkmenistan",
+  "numArticles": 77
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8c"
+  },
+  "countryName": "Tuvalu",
+  "numArticles": 5
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8d"
+  },
+  "countryName": "Uganda",
+  "numArticles": 166
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8e"
+  },
+  "countryName": "Ukraine",
+  "numArticles": 321
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a8f"
+  },
+  "countryName": "Ungarn",
+  "numArticles": 264
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a90"
+  },
+  "countryName": "Uruguay",
+  "numArticles": 146
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a91"
+  },
+  "countryName": "Usbekistan",
+  "numArticles": 128
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a92"
+  },
+  "countryName": "Vanuatu",
+  "numArticles": 17
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a93"
+  },
+  "countryName": "Vatikanstadt",
+  "numArticles": 2
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a94"
+  },
+  "countryName": "Venezuela, Bolivarische Republik",
+  "numArticles": 11
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a95"
+  },
+  "countryName": "Vereinigte Arabische Emirate",
+  "numArticles": 146
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a96"
+  },
+  "countryName": "Vereinigte Staaten",
+  "numArticles": 1000
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a97"
+  },
+  "countryName": "Vereinigtes Königreich",
+  "numArticles": 175
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a98"
+  },
+  "countryName": "Vietnam",
+  "numArticles": 318
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a99"
+  },
+  "countryName": "Weißrussland",
+  "numArticles": 441
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a9a"
+  },
+  "countryName": "Zentralafrikanische Republik",
+  "numArticles": 86
+},{
+  "_id": {
+    "$oid": "613b3d69f9ec972b84210a9b"
+  },
+  "countryName": "Zypern",
+  "numArticles": 130
+}]

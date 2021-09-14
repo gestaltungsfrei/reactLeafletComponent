@@ -65,3 +65,11 @@ const escapeHTML = str => str.replace(/(&.uml;)|(&szlig;)|(&eacute;)|(&aacute;)|
 
     console.log(escapeHTML(stringUtf))
 
+let testString = ""
+const numberStart = testString.indexOf('von')
+const numberEnd = testString.indexOf('</span>')
+let numberSlice = testString.slice((numberStart+4),(numberEnd))
+
+console.log(numberStart,' Start', numberEnd, 'End')
+console.log('Sliced: ',numberSlice)
+console.log(Number(numberSlice))
